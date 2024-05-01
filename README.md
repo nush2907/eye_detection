@@ -1,5 +1,5 @@
 # eye_detection
-he model described in the provided code snippets is designed to detect malpractice in video streams, such as those captured during exams or tests. It operates by analyzing video frames to identify and flag potential instances of cheating or malpractice. Here's a brief overview of what the model does:
+The model described in the provided code snippets is designed to detect malpractice in video streams, such as those captured during exams or tests. It operates by analyzing video frames to identify and flag potential instances of cheating or malpractice. Here's a brief overview of what the model does:
 
 1. Face Detection
 The model uses a pre-trained Haar cascade classifier for face detection. This classifier is capable of identifying human faces in images or video frames. By detecting faces, the model can then analyze the behavior associated with each face to look for signs of malpractice.
